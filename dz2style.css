@@ -1,0 +1,42 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+table{
+    border-color: green;
+    border-width: 2px;
+    border-collapse: collapse;
+}
+
+#drugired{
+    background-color: #1fed4f;
+    color:red;
+}
+
+.unos{
+    margin: 0 auto;
+    width: 500px;
+    border-style: solid;
+    border-color: green;
+    padding: 10px 0;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label{
+    display: inline-block;
+    text-align: right;
+    width: 150px;
+}
+
+#dugme{
+    position: relative;
+    left: 150px;
+    width: 80px;
+}
